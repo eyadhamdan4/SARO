@@ -1,0 +1,2 @@
+C:\Users\Bruno Trindade\Desktop\Ragnarok Server\01_emulator\hercules_RENEWAL\plugins\HPMHooking_login.pdb
+C:\Users\Bruno Trindade\Desktop\Ragnarok Server\01_emulator\hercules_RENEWAL\vcproj-16\plugin-HPMHooking_login\Debug\HPMHooking_login.pdb
